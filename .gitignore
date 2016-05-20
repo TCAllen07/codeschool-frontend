@@ -1,0 +1,10 @@
+# Config / Env
+env/
+
+# Platform / Workspace
+.DS_Store
+*.sublime-workspace
+*.swp
+.idea/
+sourcetreeconfig
+
